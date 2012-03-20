@@ -1,0 +1,6 @@
+This SDK provides programmatic control of the MoMS API through Ruby. 
+Using this SDK, a client can trigger a send to a user over 
+SMS, MMS, or email, check the status of a send, manage opt-in status and more.
+
+- doc/ contains the Ruby SDK doc
+- src/ contains the different source files
